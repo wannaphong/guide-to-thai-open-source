@@ -5,7 +5,7 @@
 ปัจจุบัน Linux สามารถใช้งานภาษาไทยได้จากผลงานของกลุ่ม TLWG ได้
 
 **อ่านเพิ่มเติม**
-- [ประวัติของเป็นมาบน linux.thai.net](https://linux.thai.net/about/history)
+- [ประวัติความเป็นมาบน linux.thai.net](https://linux.thai.net/about/history)
 
 #### ร่วมพัฒนา
 
