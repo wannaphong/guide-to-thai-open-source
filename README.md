@@ -4,5 +4,5 @@
 
 ท่านสามารถอ่านได้ที่ [github.wannaphong.com/guide-to-thai-open-source/](https://github.wannaphong.com/guide-to-thai-open-source/)
 
-**Linux กับไทย**
-- [ภาษาไทยบน Linux](./linux/)
+- [Linux กับไทย](./linux/)
+- [เอกสาร Open Source ภาษาไทย](./docs)
